@@ -1,7 +1,7 @@
 <div>
   <h1 align="center">Kiloan Desk</h1>
 
-  ![Kiloan-Desk](cad/Render%20(transparent).png)
+  ![Kiloan-Desk](CAD/Render(transparent).png)
 
   <p align="center">
   <a href="https://blueprint.hackclub.com/">
@@ -26,7 +26,7 @@
 
 # About
 
-I've always wanted my own digital mixing console, but those things are just too expensive for teenagers. That's why I want to build my own! This is the expansion board for 8 analog inputs, it receives power from the motherboard and outputs digital signals via the expansion connector to the Kiloan-APU board.
+I have a dream: a self-designed system where everyone can build the perfect mixing console/video console/DIY whatever console out of Aluminum Sheet Metal and a bit of the best hoppyist in house fabrication, 3d printing! And that's why I did this project, it's adapted somewhat to my current wishes and needs, but it can be individually adapted and replicated by anyone without breaking the budget.
 
 # Pictures
 
