@@ -1,0 +1,11 @@
+Part Name,Quantity,Price,Vendor,Price with Shipping,Link(if applicable)
+"Misc Front Module PCBs + Stencil","1x5","$10,98",jlcpcb,,
+"Fader Front Module PCBs + Stencil","1x5","$19.42",jlcpcb,,
+"Deck Switcher Front Module PCBs + Stencil","1x5","$12,57",jlcpcb,"For all PCbs thogether with shipping $96.36",
+"LCSC Electronic Components for 1x Deck Switcher/2x Fader/2x Misc","1 Order for everything(see lcsc cart export)","$103.13",lcsc,"For all components for 1x Deck Switcher/2x Fader/2x Misc with shipping $114.13",
+"Keyswitches for the PCBs","3x10pcs","$6,11",aliexpress,"$6,11","https://de.aliexpress.com/item/1005006814061416.html?spm=a2g0o.cart.0.0.639b4ae4hJRiNj&mp=1&pdp_npi=5%40dis%21EUR%21EUR%201.75%21EUR%201.75%21%21EUR%201.75%21%21%21%4021038da617652205559805350e63e4%2112000038390782462%21ct%21DE%216411673618%21%213%210&gatewayAdapt=glo2deu"
+"M5x10mm Screws","3x100pcs","$8,31",schraubenking-shop.de(local and cheapest in my country),,"https://www.schraubenking-shop.de/M5-x-10mm-Linsenkopfschrauben-TX-ISO14583-Edelstahl-A2-P004399"
+"M3x10mm Screws","1x100pcs","$2,33",schraubenking-shop.de(local and cheapest in my country),"M3 + M5 together with shipping: $17,50","https://www.schraubenking-shop.de/M3-x-10mm-Linsenkopfschrauben-TX-ISO14583-Edelstahl-A2-P004381"
+"JLCCNC Sheet Metal Parts","10 individual parts","between $180 to $220 depending on quote from JLCCNC (with shipping)","jlccnc",,"jlccnc.com"
+
+"Estimated Total",,,,"$400 - $450 depending on JLCCNC quote",
